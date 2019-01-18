@@ -155,7 +155,7 @@ xhttp.open('GET', '/data.json', true)
 xhttp.send()
 ```
 
-Koodin yksityiskohdat eivät ole tässä osassa oleellisia, koodia on kuitenkin liitetty mukaan tekstin ja kuvien mausteeksi. Pääsemme kunnolla koodin pariin vasta [osassa 1](/osa1). Tämän osan esimerkkisovelluksen koodi ei itseasiassa ole ollenkaan relevanttia kurssilla käytettävien ohjelmointitekniikoiden kannalta.
+Koodin yksityiskohdat eivät ole tässä osassa oleellisia, koodia on kuitenkin liitetty mukaan tekstin ja kuvien mausteeksi. Pääsemme kunnolla koodin pariin vasta [osassa 1](/osa1). Tämän osan esimerkkisovelluksen koodi ei itse asiassa ole ollenkaan relevanttia kurssilla käytettävien ohjelmointitekniikoiden kannalta.
 
 > Joku saattaa ihmetellä miksi käytössä on xhttp-olio eikä modernimpi fetch. Syynä on se, että tässä osassa ei haluta mennä ollenkaan promiseihin ja koodin rooli esimerkissä on muutenkin sekundäärinen. Palaamme osassa 2 uudenaikaisempiin tapoihin tehdä pyyntöjä palvelimelle.
 
